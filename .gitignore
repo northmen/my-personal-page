@@ -1,0 +1,11 @@
+.idea
+venv
+pycache
+local.py
+docs/_build
+*.pyc
+media/*.png
+media/*.jpg
+.DS_Store
+logs/*.log
+.cache
